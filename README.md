@@ -2,9 +2,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">       <h3 align="center">🌸 Beatrix</h3>    <p align="center">  Beatrix is a sweet and simple lofi bot that help you to relax your body and help you to focus. Having alot of cmds that will surely amuse you and just like your mom help you in studies.     <br />     <br />     <a href="https://dsc.gg/beatrıx">Invite</a>     ·     <a href="https://discord.gg/a7TmUZWqPb">Report Bug</a>     ·     <a href="https://discord.gg/">Support</a>   </p>
-</p>   
-## 📝 Privacy Policy
+</p>
 
+# 📝 Privacy Policy  
+Beatrix is 101% safe and secure to use. We use only necessary dat in order to perform commands in a better way possible. These privacy policy will explain which type of Data we store and how can any individual request to delete it. 
+# 📝 Privacy Policy  
 Beatrix is 101% safe and secure to use. We use only necessary dat in order to perform commands in a better way possible. These privacy policy will explain which type of Data we store and how can any individual request to delete it. 
 
 ## ✨ What type of Data does Beatrix collect?
