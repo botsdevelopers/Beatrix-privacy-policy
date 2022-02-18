@@ -6,8 +6,7 @@
 
 # 📝 Privacy Policy  
 Beatrix is 101% safe and secure to use. We use only necessary dat in order to perform commands in a better way possible. These privacy policy will explain which type of Data we store and how can any individual request to delete it. 
-# 📝 Privacy Policy  
-Beatrix is 101% safe and secure to use. We use only necessary dat in order to perform commands in a better way possible. These privacy policy will explain which type of Data we store and how can any individual request to delete it. 
+
 
 ## ✨ What type of Data does Beatrix collect?
 We don't collect any personal information from any individual unless they uses the certain commands that needs to store the data.
