@@ -5,11 +5,13 @@
 </p>   
 # 📝 Privacy Policy 
 Beatrix is 101% safe and secure to use. We use only necessary dat in order to perform commands in a better way possible. These privacy policy will explain which type of Data we store and how can any individual request to delete it. 
+
 ## ✨ What type of Data does Beatrix collect?
 We don't collect any personal information from any individual unless they uses the certain commands that needs to store the data.
 Beatrix have a command named `Setup`: setup beatrix in the server, `total`: send the total sec/min/hrs you studied.
 These commands needs to store the channel ID and user ID of user. 
-## ✨ Why does Beatrix collect Data (channel and user id)?
+
+##✨ Why does Beatrix collect Data (channel and user id)?
 Beatrix collects and store channel id in order to proper functioning of it as it will no longer respond in other channels of server if you setup it in particular channel.
 It collects and store user id for the level and leaderboard of the study table which tells that while member of server studied more hour. 
 ## ✨ For how long does Beatrix store this data?
