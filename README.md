@@ -1,32 +1,43 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Beatrix&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />  
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">       <h3 align="center">🌸 Beatrix</h3>    <p align="center">  Beatrix is a sweet and simple lofi bot that help you to relax your body and help you to focus. Having alot of cmds that will surely amuse you and just like your mom help you in studies.     <br />     <br />     <a href="https://dsc.gg/beatrıx">Invite</a>     ·     <a href="https://discord.gg/a7TmUZWqPb">Report Bug</a>     ·     <a href="https://discord.gg/">Support</a>   </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Beatrix&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </p>
 
-# 📝 Privacy Policy  
-Beatrix is 101% safe and secure to use. We use only necessary dat in order to perform commands in a better way possible. These privacy policy will explain which type of Data we store and how can any individual request to delete it. 
+# 🌸 Beatrix
+Beatrix is a sweet and simple lofi bot that helps you relax your body and focus on your tasks. It offers a variety of commands to amuse you and support your studies, just like your mom would!
 
+<p align="center">
+  <a href="https://dsc.gg/beatrıx">Invite Beatrix</a> ·
+  <a href="https://discord.gg/a7TmUZWqPb">Report a Bug</a> ·
+  <a href="https://discord.gg/">Support</a>
+</p>
 
-## ✨ What type of Data does Beatrix collect?
-We don't collect any personal information from any individual unless they uses the certain commands that needs to store the data.
-Beatrix have a command named `Setup`: setup beatrix in the server, `total`: send the total sec/min/hrs you studied.
-These commands needs to store the channel ID and user ID of user. 
+## 📝 Privacy Policy
+Beatrix is 101% safe and secure to use. We only collect necessary data to enhance your experience. This privacy policy explains the type of data we store and how you can request its deletion.
 
-## ✨ Why does Beatrix collect Data (channel and user id)?
-Beatrix collects and store channel id in order to proper functioning of it as it will no longer respond in other channels of server if you setup it in particular channel.
-It collects and store user id for the level and leaderboard of the study table which tells that while member of server studied more hour. 
-## ✨ For how long does Beatrix store this data?
-This data is stored until you remove beatrıx or undo the setup of Beatrix. 
-## ✨ I want to remove my Data. How can I do so?
-Below are the ways by which you can do so:
-★ Undo the setup by `L!reset`.
-★ Kick/remove beatrıx from your server (please don't do this na)
-★ Join the [support server](https://discord.gg/a7TmUZWqPb) of beatrıx and their Developers will manually delete your data. 
-## ✨ I have some other concerns. How can I contact the developers?
-Join the [support server](https://discord.gg/a7TmUZWqPb) and just ping the any online staff or sunshine himself they will provide you support asap. 
-## ✨ Do you guys sell the data of users?
-Ofcourse not, our users are just like family and they privacy is our first priority. We won't do anything that can put them in any kind of danger.  
+### ✨ What type of Data does Beatrix collect?
+Beatrix doesn't collect any personal information unless you use specific commands that require data storage. These commands include:
+- `Setup`: to configure Beatrix in your server.
+- `total`: to show the total time you've studied.
+
+### ✨ Why does Beatrix collect Data (channel and user id)?
+- Beatrix stores channel IDs for proper functionality, ensuring it responds only in designated channels.
+- User IDs are collected for the study level and leaderboard, tracking who has studied the most.
+
+### ✨ How long does Beatrix store this data?
+Data is retained until you remove Beatrix or undo the setup.
+
+### ✨ How can I remove my Data?
+You can remove your data in the following ways:
+- Use `L!reset` to undo the setup.
+- Kick/remove Beatrix from your server (although we hope you won't!).
+- Join the [support server](https://discord.gg/a7TmUZWqPb), and our developers will manually delete your data.
+
+### ✨ I have other concerns. How can I contact the developers?
+Join the [support server](https://discord.gg/a7TmUZWqPb) and ping any online staff or Sunshine, and they will provide support promptly.
+
+### ✨ Do you sell users' data?
+Absolutely not! Our users are like family, and their privacy is our top priority. We would never jeopardize their safety.
+
 ## 🎭 Features
 - [x] Multi languages
 - [x] Study
@@ -34,4 +45,4 @@ Ofcourse not, our users are just like family and they privacy is our first prior
 - [x] Education
 - [x] Custom prefix
 - [x] Calm
-- [x] More   
+- [x] And much more!
